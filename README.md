@@ -11,15 +11,6 @@ So far, I have covered the following Java topics:
 1. Variables and Data Types
 2. Control Statements (if-else, switch-case, loops)
 3. Arrays and ArrayLists
-4. Object-Oriented Programming (Classes, Objects, Inheritance, Polymorphism)
-5. Exception Handling
-6. File Handling
-7. Java Collections Framework (List, Set, Map)
-8. Multithreading
-9. Generics
-10. Java I/O
-11. JDBC (Java Database Connectivity)
-12. Java GUI (Swing and JavaFX)
 
 Each topic is accompanied by code examples and explanations to reinforce my understanding.
 
