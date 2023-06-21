@@ -31,7 +31,7 @@ public class lj_Method_Overloading {
         foo();
         foo(3000);
         foo(3000, 4000);
-        
+
 //        This shows that you can create as many methods as you want with the same name but different parameters.
     }
 }
