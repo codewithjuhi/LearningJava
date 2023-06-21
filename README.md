@@ -11,8 +11,9 @@ So far, I have covered the following Java topics:
 1. Variables and Data Types
 2. Control Statements (if-else, switch-case, loops)
 3. Arrays and ArrayLists
-4. Methods
-5. Methods Overloading
+4. Methods and Methods Overloading
+5. Variable Arguments
+6. Recursion
 
 Each topic is accompanied by code examples and explanations to reinforce my understanding.
 
