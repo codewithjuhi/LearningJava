@@ -21,8 +21,8 @@ public class lj_recursion {
     }
     public static void main(String[] args) {
         System.out.println("Factorial of 4 is: "+factorial(4));
-        int n =10;
 
+        int n =10;
         System.out.print("Fibonacci series: ");
         for (int i=0; i<=n; i++){
             System.out.print(fibonacci(i)+" ");

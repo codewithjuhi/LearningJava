@@ -1,6 +1,6 @@
 package com.learningJava;
 
-public class practice_set01 {
+public class practiceSet01_arrays {
     public static void main(String[] args) {
         float[] a = {12.5f, 89.0f, 51.8f, 87.87f, 23.86f};
 //      Problem 1
