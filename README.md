@@ -14,6 +14,11 @@ So far, I have covered the following Java topics:
 4. Methods and Methods Overloading
 5. Variable Arguments
 6. Recursion
+7. OOP Concepts
+8. Getters & Setters
+9. Constructors
+10. Inheritance
+11. Method Overriding
 
 Each topic is accompanied by code examples and explanations to reinforce my understanding.
 
