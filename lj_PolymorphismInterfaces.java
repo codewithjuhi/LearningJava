@@ -42,7 +42,7 @@ class mySmartPhone2 extends myCellPhone2 implements Wifi2, Camera2{
         System.out.println("Connecting to "+ network);
     }
 }
-public class PolymorphismInterfaces {
+public class lj_PolymorphismInterfaces {
     public static void main(String[] args) {
         Camera2 cam1 = new mySmartPhone2(); // using smartphone as a camera, no other features can be accessed.
 //        cam1.getNetworks(); --> Not Allowed!
